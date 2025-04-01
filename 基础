@@ -1,0 +1,11 @@
+面向萌新小白的教程
+The Website is the API.
+什么是API?
+API 是应用程序编程接口（Application Programming Interface）的缩写。它是一种允许不同软件应用程序之间进行交互和通信的机制。
+
+主要部分：
+1.Requests库
+2.robots.txt协议 网络爬虫排除标准
+3.Beautiful Soup库
+4.Re 正则表达式库
+5.Scrapy库 专业网络爬虫框架
