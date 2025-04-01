@@ -1,0 +1,21 @@
+IDE?
+IDE是集成开发环境
+
+常用IDE分类：文本工具类、集成工具类
+文本工具类IDE
+
+包括:IDLE、Sublime Text等
+IDLE介绍:包含交互式和文件式两种形式。
+Sublime Text:专门为程序员开发的第三方专用编程工具，专业程序员用的较多，编程风格较多。
+
+集成工具类IDE
+
+包括:Pycharm、Visual Studio、Anaconda & Spyder等
+Visual Studio & PTVS
+Eclipse:开源IDE工具，自定义功能较多，需要一定开发经验。
+pycharm:社区版、专业版 相对简单、集成度高
+
+科学计算 Canopy
+
+数据分析 Anaconda 
+开源免费
